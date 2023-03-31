@@ -26,7 +26,7 @@ There will be a total of 173 sessions
 ### Session Breakdown
 | Broken down by Category |  Broken down by Track |
 |:-----------------------:|:--------------------:|
-|<table><tr><th>Session Category</th><th># of Sessions</th></tr><td align="left">Community Keynote</td><td>1</td><tr><td align="left">Deep Dive</td><td>4</td></tr><tr><td align="left">General</td><td>93</td></tr><tr><td align="left">Panel</td><td>3</td></tr><tr><td align="left">Lightning Talks</td><td>3</td></tr></table> | <table><tr><th>Session Track</th><th>% of Sessions</th></tr></tr><td align="left">Analytics</td><td>21</td><tr><td align="left">Architecture</td><td>18</td></tr><tr><td align="left">Database Management</td><td>31</td></tr><tr><td align="left">Development</td><td>18</td></tr><tr><td align="left">Professional Development</td><td>12</td></tr></table>|
+|<table><tr><th>Session Category</th><th># of Sessions</th></tr><td align="left">Community Keynote</td><td align="center">1</td><tr><td align="left">Deep Dive</td><td align="center">4</td></tr><tr><td align="left">General</td><td align="center">93</td></tr><tr><td align="left">Panel</td> <td align="center">3</td></tr><tr><td align="left">Lightning Talks</td> <td align="center">3</td></tr></table>|<table><tr><th>Session Track</th><th>% of Sessions</th></tr></tr><td align="left">Analytics</td> <td align="center">21</td><tr><td align="left">Architecture</td> <td align="center">18</td></tr><tr><td align="left">Database Management</td><td>31</td></tr><tr><td align="left">Development</td><td>18</td></tr><tr><td align="left">Professional Development</td><td>12</td></tr></table>|
 
 ### Session Categories
 - Pre-con: Full Day Session Monday or Tuesday before Summit
