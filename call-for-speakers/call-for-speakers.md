@@ -207,10 +207,10 @@ Each proposal should provide information about the following:
 7. Prerequisites
 8. Goals
 9. Presentation Sample (mp4 preferred, named firstname_lastname_title_sessioncategory_date)
-10 Participants
-- Roles
-- Speaker Info
-- Verified Experiences
+10. Participants
+    - Roles
+    - Speaker Info
+    - Verified Experiences
 
 ## Abstract Review & Selection
 >A multi-phased selection process that takes place directly after the CFS closes and runs for a total of 9-10 weeks.
