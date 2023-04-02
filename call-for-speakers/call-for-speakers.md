@@ -8,7 +8,7 @@ PASS Data Community Summit is a premier event that brings together DBAs, Enginee
 
 ## Timeline
 | Event                            |	     Deadline          |
-|----------------------------------|:--------------------------|
+|:---------------------------------|:--------------------------|
 | Early-Bird* Deadline             |	March 30 (11:59pm PST) |
 | CFS Deadline                     |	April 13 (11:59pm PST) |
 | General Abstract Review          |	April 17 - July 04     |
