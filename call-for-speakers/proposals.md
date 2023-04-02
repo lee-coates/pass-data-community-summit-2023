@@ -102,6 +102,7 @@ From the above list, a number of presentation topics can be generated. As mentio
     - Track: Development
     - Topics: T-SQL, PowerShell, ETL, Entity Framework
     - Level: 200 - Beginners, Fundamental
+    - Category: General or Lightning Talk
 - Creating a Search Bar in Power BI
     - Track: Analytics
     - Topics: Power BI
@@ -134,6 +135,7 @@ From the above list, a number of presentation topics can be generated. As mentio
     - Track: Professional Development
     - Topics: Teaching & Presentation Skills
     - Level: 100 - Everyone, Introductory
+    - Category: General or Lightning Talk
 - Building Data Solutions with Azure Databricks
     - Track: Development
     - Topics: DataBricks
