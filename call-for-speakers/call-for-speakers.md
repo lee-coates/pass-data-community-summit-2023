@@ -8,7 +8,7 @@ PASS Data Community Summit is a premier event that brings together DBAs, Enginee
 
 ## Timeline
 | Event                            |	     Deadline          |
-|----------------------------------|:--------------------------|
+|:---------------------------------|:--------------------------|
 | Early-Bird* Deadline             |	March 30 (11:59pm PST) |
 | CFS Deadline                     |	April 13 (11:59pm PST) |
 | General Abstract Review          |	April 17 - July 04     |
@@ -26,7 +26,7 @@ There will be a total of 173 sessions
 ### Session Breakdown
 | Broken down by Category |  Broken down by Track |
 |:-----------------------:|:--------------------:|
-|<table><tr><th>Session Category</th><th># of Sessions</th></tr><td align="left">Community Keynote</td><td align="center">1</td><tr><td align="left">Deep Dive</td><td align="center">4</td></tr><tr><td align="left">General</td><td align="center">93</td></tr><tr><td align="left">Panel</td> <td align="center">3</td></tr><tr><td align="left">Lightning Talks</td> <td align="center">3</td></tr></table>|<table><tr><th>Session Track</th><th>% of Sessions</th></tr></tr><td align="left">Analytics</td> <td align="center">21</td><tr><td align="left">Architecture</td> <td align="center">18</td></tr><tr><td align="left">Database Management</td><td align="center">31</td></tr><tr><td align="left">Development</td><td align="center">18</td></tr><tr><td align="left">Professional Development</td><td align="center">12</td></tr></table>|
+|<table><tr><th align="left">Session Category</th><th># of Sessions</th></tr><td align="left">Community Keynote</td><td align="center">1</td><tr><td align="left">Deep Dive</td><td align="center">4</td></tr><tr><td align="left">General</td><td align="center">93</td></tr><tr><td align="left">Panel</td> <td align="center">3</td></tr><tr><td align="left">Lightning Talks</td> <td align="center">3</td></tr></table>|<table><tr><th align="left">Session Track</th><th>% of Sessions</th></tr></tr><td align="left">Analytics</td> <td align="center">21</td><tr><td align="left">Architecture</td> <td align="center">18</td></tr><tr><td align="left">Database Management</td><td align="center">31</td></tr><tr><td align="left">Development</td><td align="center">18</td></tr><tr><td align="left">Professional Development</td><td align="center">12</td></tr></table>|
 
 ### Session Categories
 - Pre-con: Full Day Session Monday or Tuesday before Summit
@@ -177,7 +177,7 @@ mental health, life-work balance, diversity, equity, inclusion, belonging, or ac
     - Inclusive Leadership
 - Effective Collaboration
 - Imposter Syndrome
-- **leadership, Mentoring, & Coaching**
+- **Leadership, Mentoring, & Coaching**
 - Networking
 - Project & Time Management
 - **Public Speaking**
