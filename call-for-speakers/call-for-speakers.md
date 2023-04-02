@@ -177,7 +177,7 @@ mental health, life-work balance, diversity, equity, inclusion, belonging, or ac
     - Inclusive Leadership
 - Effective Collaboration
 - Imposter Syndrome
-- **leadership, Mentoring, & Coaching**
+- **Leadership, Mentoring, & Coaching**
 - Networking
 - Project & Time Management
 - **Public Speaking**
