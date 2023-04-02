@@ -59,22 +59,82 @@ The materials in this repo support presentations suitable for General Sessions a
 |  | Teaching & Presentation Skills |
 
 ## Potential Proposal Topics
-From the above list, a number of presentation topics can be generated.
+From the above list, a number of presentation topics can be generated. As mentioned previously, these sessions all fall into the **General** Category or a **Lightning Talk** where noted.
+
 - Enterprise Data Governance using Power BI
+    - Track: Architecture or Database Management
+    - Topics: Protection & Privacy, Governance & Compliance
+    - Level: 200 - Beginners, Fundamental
 - Star Schema Deep Dive
+    - Track: Architecture
+    - Topics: Database Design
+    - Level: 300 - Experienced, Challenging
 - Normalization Deep Dive
+    - Track: Architecture
+    - Topics: Database Design
+    - Level: 300 - Experienced, Challenging
 - Exploratory Data Analysis in Power BI
-- Using Azure AI Services with Power BI
+    - Track: Analytics
+    - Topics: Advanced Analytics, Power BI, Python/R
+    - Level: 200 - Beginners, Fundamental
+    - Category: General or Lightning Talk
+- Supporting the use of Azure AI Services with Power BI
+    - Track: Analytics
+    - Topics: Data Science
+    - Level: 300 - Experienced, Challenging
 - Querying REST APIs with Power Query
+    - Track: Development
+    - Topics: ETL
+    - Level: 200 - Beginners, Fundamental
 - Mixing ArcGIS and Power BI
+    - Track: Analytics
+    - Topics: Advanced Analytics, Power BI
+    - Level: 200 - Beginners, Fundamental
 - Power BI for IT Departments
+    - Track: Analytics
+    - Topics: Power BI
+    - Level: 200 - Beginners, Fundamental
 - Power Platform Data Gateway Management
+    - Track: Architecture
+    - Topics: Hybrid Environment
+    - Level: 200 - Beginners, Fundamental
 - An Overview of Data Languages
+    - Track: Development
+    - Topics: T-SQL, PowerShell, ETL, Entity Framework
+    - Level: 200 - Beginners, Fundamental
 - Creating a Search Bar in Power BI
+    - Track: Analytics
+    - Topics: Power BI
+    - Level: 200 - Beginners, Fundamental
 - Extending SQL Server data into a Power Platform Business App
+    - Track: Architecture
+    - Topics: Hybrid Environment
+    - Level: 200 - Beginners, Fundamental
 - Data Systems Observability with Grafana
+    - Track: Analytics, Database Management
+    - Topics: Grafana, Open Source, Performance & Troubleshooting
+    - Level: 400 - Expert, Difficult
 - Moving AI Workloads into SQL Server
+    - Track: Analytics
+    - Topics: Data Science
+    - Level: 300 - Experienced, Challenging
 - How to Measure AI Algorithms for Bias
+    - Track: Analytics
+    - Topics: AI & ML
+    - Level: 200 - Beginners, Fundamental
 - Comparing MSSQL to Open Source Database Engines
+    - Track: Database Management
+    - Topics: Multi-platform
+    - Level: 200 - Beginners, Fundamental
 - Power BI as a Tool for Allies
+    - Track: Professional Development
+    - Topics: DEIB - Being an Ally
+    - Level: 100 - Everyone, Introductory
 - Tips for Teaching Complex Topics
+    - Track: Professional Development
+    - Topics: Teaching & Presentation Skills
+    - Level: 100 - Everyone, Introductory
+- Building Data Solutions with Azure Databricks
+    - Track: Development
+    - Topics: DataBricks
+    - Level: 300 - Experienced, Challenging
