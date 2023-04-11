@@ -24,4 +24,4 @@ Attendees of this session should have a basic familiarity with Database Manageme
 ## Goals
 1. Attendees will develop a strategy for choosing and supporting a Database Management System.
 2. Attendees will understand the history and motivations of both MSSQL and various Open Source Database Platforms.
-3. Attendess will gain the skills to setup and explore a Database in MSSQL, PostgreSQL, MySQL, and MongoDB.
+3. Attendess will gain the skills to setup and explore a database in MSSQL, PostgreSQL, MySQL, and MongoDB.
