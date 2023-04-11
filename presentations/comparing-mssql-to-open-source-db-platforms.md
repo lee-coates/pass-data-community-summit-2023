@@ -1,7 +1,10 @@
 # Comparing Microsoft SQL Server to Open Source DB Platforms
-**Category: General**
-**Track: Database Management**
+**Category: General** 
+
+**Track: Database Management** 
+
 **Topics: Multi-platform, OpenSource, PostgreSQL, MySQL, MongoDB**
+
 **Level: 200 (Beginners) Fundamental**
 
 ## Abstract
